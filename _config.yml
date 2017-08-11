@@ -1,9 +1,9 @@
 # main text of home
 name: Samuel Huba
-bio: Consultant, Entrepreneur
+bio: On a Forever Learning Journey
 
 # twitter summary info
-description: Consultant, Entrepreneur
+description: On a Forever Learning Journey
 
 # if it's an external image, update below for true
 # better with square images
@@ -29,26 +29,26 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: samuel.huba
-twitter: samuelhuba
+# facebook: samuel.huba
+# twitter: samuelhuba
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: samuelhuba
 # youtube: myyoutube
 # spotify: myspotify
-github: samuelhuba
+# github: samuelhuba
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: samuel.huba
+# medium: samuel.huba
 # vimeo: myvimeo
 email: samuel.huba@gmail.com
 
 authors:
     johndoe:
         name: Samuel Huba
-        bio: Consultant, Entrepreneur
+        bio: On a Forever Learning Journey
         external-image: true
         picture: assets/images/profile.jpg
         twitter: samuelhuba
